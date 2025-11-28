@@ -19,7 +19,7 @@ composer install
 
 cp .env.example .env
 
-DB_DATABASE=dog_breed_app
+DB_DATABASE=dogs
 DB_USERNAME=root
 DB_PASSWORD=your_password
 

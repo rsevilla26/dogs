@@ -24,10 +24,13 @@ DB_USERNAME=root
 DB_PASSWORD=your_password
 
 php artisan key:generate
+
 php artisan migrate
+
 php artisan db:seed
 
 npm install
+
 npm run dev
 
 php artisan serve

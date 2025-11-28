@@ -9,9 +9,10 @@
 - Laravel 10+
 
 ## Local Setup
-
+```
 git clone git@github.com:rsevilla26/dogs.git
 cd dogs
+```
 
 
 composer install
